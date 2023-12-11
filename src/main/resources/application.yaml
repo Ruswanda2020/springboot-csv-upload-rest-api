@@ -1,0 +1,18 @@
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/demo_csv
+    username: root
+    password: wanda@20101999
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    hikari:
+      connection-timeout: 60000
+      idle-timeout: 60000
+      max-lifetime: 180000
+      maximum-pool-size: 10
+  jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    format-sql: true
