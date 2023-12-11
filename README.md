@@ -15,6 +15,7 @@ menyediakan endpoint yang memungkinkan pengguna mengunggah file CSV dengan mudah
 - Spring Web
 - Spring jpa 
 - CSV Library OpenCSV
+- mysql
 
 ## Cara Menjalankan Proyek
 
