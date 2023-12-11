@@ -13,7 +13,7 @@ menyediakan endpoint yang memungkinkan pengguna mengunggah file CSV dengan mudah
 
 - Spring Boot
 - Spring Web
-- Spring jpa Opsional, jika memproses data ke database
+- Spring jpa 
 - CSV Library OpenCSV
 
 ## Cara Menjalankan Proyek
